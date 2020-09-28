@@ -1,0 +1,18 @@
+owner: softcreatr
+repo: uptime-status
+user-agent: Status Check
+sites:
+  - name: 1-2.dev
+    url: https://1-2.dev
+  - name: SoftCreatR Media
+    url: https://www.softcreatr.com
+  - name: SoftCreatR Media - PkgSrv 1 - Vortex (WSC 3.0)
+    url: https://shop.softcreatr.com/update/1-vortex/
+  - name: SoftCreatR Media - PkgSrv 2 - Tornado (WSC 3.1)
+    url: https://shop.softcreatr.com/update/2-tornado/
+  - name: SoftCreatR Media - PkgSrv 5 - Hurricane (WSC 5.2)
+    url: https://shop.softcreatr.com/update/5-hurricane/
+status-website:
+  cname: status.softcreatr.com
+  logoUrl: /icon.svg
+  name: Status / Uptime
