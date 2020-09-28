@@ -57,6 +57,6 @@
       data={{ labels, datasets: [{ label: config.i18n.responseTimeMs, backgroundColor: '#89e0cf', borderColor: '#1abc9c', data }] }}
       width={800}
       height={400}
-      options={{ responsive: false, maintainAspectRatio: true, scales: { xAxes: [{ display: false, gridLines: { display: false } }] } }} />
+      options={{ responsive: true, maintainAspectRatio: false, scales: { xAxes: [{ display: false, gridLines: { display: false } }] } }} />
   {/if}
 </section>
