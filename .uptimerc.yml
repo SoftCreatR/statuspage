@@ -1,5 +1,5 @@
 owner: softcreatr
-repo: uptime-status
+repo: statuspage
 user-agent: Status Check
 sites:
   - name: 1-2.dev
