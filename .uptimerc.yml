@@ -13,6 +13,6 @@ sites:
   - name: SoftCreatR Media - PkgSrv 5 - Hurricane (WSC 5.2)
     url: https://shop.softcreatr.com/update/5-hurricane/
 status-website:
-  cname: status.softcreatr.com
+  cname: is.softcreatr.online
   logoUrl: /icon.svg
   name: Status / Uptime
