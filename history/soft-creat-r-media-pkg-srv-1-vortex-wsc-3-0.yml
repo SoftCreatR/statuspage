@@ -1,6 +1,6 @@
 - url: https://shop.softcreatr.com/update/1-vortex/
-- status: up
-- code: 200
-- responseTime: 935
-- lastUpdated: 2020-10-12T11:43:38.800Z
+- status: down
+- code: 500
+- responseTime: 2264
+- lastUpdated: 2020-10-12T13:14:41.043Z
 - startTime: 2020-09-28T19:49:19.074Z
