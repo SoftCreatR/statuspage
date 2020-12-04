@@ -5,7 +5,7 @@
     "slug": "1-2-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 733
+    "time": 725
   },
   {
     "name": "SoftCreatR Media",
@@ -13,7 +13,7 @@
     "slug": "soft-creat-r-media",
     "status": "up",
     "uptime": "100.00",
-    "time": 879
+    "time": 882
   },
   {
     "name": "SoftCreatR Media - PkgSrv 1 - Vortex (WSC 3.0)",
@@ -21,7 +21,7 @@
     "slug": "soft-creat-r-media-pkg-srv-1-vortex-wsc-3-0",
     "status": "up",
     "uptime": "100.00",
-    "time": 971
+    "time": 973
   },
   {
     "name": "SoftCreatR Media - PkgSrv 2 - Tornado (WSC 3.1)",
@@ -29,7 +29,7 @@
     "slug": "soft-creat-r-media-pkg-srv-2-tornado-wsc-3-1",
     "status": "up",
     "uptime": "100.00",
-    "time": 455
+    "time": 456
   },
   {
     "name": "SoftCreatR Media - PkgSrv 5 - Hurricane (WSC 5.2)",
