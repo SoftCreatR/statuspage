@@ -1,6 +1,6 @@
 - url: https://shop.softcreatr.com/update/5-hurricane/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-12-22T00:05:01.566Z
+- status: up
+- code: 200
+- responseTime: 216
+- lastUpdated: 2020-12-22T01:15:29.244Z
 - startTime: 2020-09-28T19:49:24.428Z
