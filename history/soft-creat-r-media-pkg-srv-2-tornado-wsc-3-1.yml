@@ -1,6 +1,6 @@
 - url: https://shop.softcreatr.com/update/2-tornado/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-12-22T00:04:59.491Z
+- status: up
+- code: 200
+- responseTime: 171
+- lastUpdated: 2020-12-22T01:15:25.416Z
 - startTime: 2020-09-28T19:49:22.212Z
