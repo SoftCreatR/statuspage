@@ -7,11 +7,13 @@ sites:
   - name: SoftCreatR Media
     url: https://www.softcreatr.com
   - name: SoftCreatR Media - PkgSrv 1 - Vortex (WSC 3.0)
-    url: https://shop.softcreatr.com/update/1-vortex/
+    url: https://shop.softcreatr.com/package-server/3.0/
   - name: SoftCreatR Media - PkgSrv 2 - Tornado (WSC 3.1)
-    url: https://shop.softcreatr.com/update/2-tornado/
+    url: https://shop.softcreatr.com/package-server/3.1/
   - name: SoftCreatR Media - PkgSrv 5 - Hurricane (WSC 5.2)
-    url: https://shop.softcreatr.com/update/5-hurricane/
+    url: https://shop.softcreatr.com/package-server/5.2/
+  - name: SoftCreatR Media - PkgSrv 6 - 5.3
+    url: https://shop.softcreatr.com/package-server/5.3/
 status-website:
   cname: is.softcreatr.online
   logoUrl: /icon.svg
