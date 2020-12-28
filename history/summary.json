@@ -17,7 +17,7 @@
   },
   {
     "name": "SoftCreatR Media - PkgSrv 1 - Vortex (WSC 3.0)",
-    "url": "https://shop.softcreatr.com/update/1-vortex/",
+    "url": "https://shop.softcreatr.com/package-server/3.0/",
     "slug": "soft-creat-r-media-pkg-srv-1-vortex-wsc-3-0",
     "status": "up",
     "uptime": "100.00",
@@ -25,7 +25,7 @@
   },
   {
     "name": "SoftCreatR Media - PkgSrv 2 - Tornado (WSC 3.1)",
-    "url": "https://shop.softcreatr.com/update/2-tornado/",
+    "url": "https://shop.softcreatr.com/package-server/3.1/",
     "slug": "soft-creat-r-media-pkg-srv-2-tornado-wsc-3-1",
     "status": "up",
     "uptime": "100.00",
@@ -33,10 +33,18 @@
   },
   {
     "name": "SoftCreatR Media - PkgSrv 5 - Hurricane (WSC 5.2)",
-    "url": "https://shop.softcreatr.com/update/5-hurricane/",
+    "url": "https://shop.softcreatr.com/package-server/5.2/",
     "slug": "soft-creat-r-media-pkg-srv-5-hurricane-wsc-5-2",
     "status": "up",
     "uptime": "100.00",
     "time": 312
+  },
+  {
+    "name": "SoftCreatR Media - PkgSrv 6 - 5.3",
+    "url": "https://shop.softcreatr.com/package-server/5.3/",
+    "slug": "soft-creat-r-media-pkg-srv-6-5-3",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 128
   }
 ]
