@@ -6,6 +6,8 @@ sites:
     url: https://1-2.dev
   - name: SoftCreatR Media
     url: https://www.softcreatr.com/health-check
+  - name: SoftCreatR Media - Support Forum
+    url: https://support.softcreatr.com/health-check
   - name: SoftCreatR Media - Shop / Package Servers
     url: https://shop.softcreatr.com/health-check
 status-website:
