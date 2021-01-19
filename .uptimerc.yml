@@ -7,6 +7,7 @@ sites:
   - name: SoftCreatR Media
     url: https://www.softcreatr.com/health-check
   - name: SoftCreatR Media - Shop / Package Servers
+    url: https://shop.softcreatr.com/health-check
 status-website:
   cname: is.softcreatr.online
   logoUrl: /icon.svg
