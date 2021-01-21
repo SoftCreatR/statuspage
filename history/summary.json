@@ -11,24 +11,24 @@
     "name": "SoftCreatR Media",
     "url": "https://www.softcreatr.com/health-check",
     "slug": "soft-creat-r-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 746
+    "time": 738
   },
   {
     "name": "SoftCreatR Media - Support Forum",
     "url": "https://support.softcreatr.com/health-check",
     "slug": "soft-creat-r-media-support-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 443
+    "time": 369
   },
   {
     "name": "SoftCreatR Media - Shop / Package Servers",
     "url": "https://shop.softcreatr.com/health-check",
     "slug": "soft-creat-r-media-shop-package-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 423
+    "time": 353
   }
 ]
