@@ -5,7 +5,7 @@
     "slug": "1-2-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 270
+    "time": 241
   },
   {
     "name": "SoftCreatR Media",
@@ -13,7 +13,7 @@
     "slug": "soft-creat-r-media",
     "status": "up",
     "uptime": "100.00",
-    "time": 748
+    "time": 746
   },
   {
     "name": "SoftCreatR Media - Support Forum",
@@ -21,7 +21,7 @@
     "slug": "soft-creat-r-media-support-forum",
     "status": "up",
     "uptime": "100.00",
-    "time": 412
+    "time": 443
   },
   {
     "name": "SoftCreatR Media - Shop / Package Servers",
@@ -29,6 +29,6 @@
     "slug": "soft-creat-r-media-shop-package-servers",
     "status": "up",
     "uptime": "100.00",
-    "time": 391
+    "time": 423
   }
 ]
