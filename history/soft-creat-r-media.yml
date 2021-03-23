@@ -1,6 +1,6 @@
 - url: https://www.softcreatr.com/health-check
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2021-03-23T12:36:02.111Z
+- status: up
+- code: 200
+- responseTime: 330
+- lastUpdated: 2021-03-23T13:04:01.783Z
 - startTime: 2020-09-28T19:49:16.043Z
