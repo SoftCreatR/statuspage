@@ -19,16 +19,16 @@
     "name": "SoftCreatR Media - Support Forum",
     "url": "https://support.softcreatr.com/health-check",
     "slug": "soft-creat-r-media-support-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 368
+    "time": 375
   },
   {
     "name": "SoftCreatR Media - Shop / Package Servers",
     "url": "https://shop.softcreatr.com/health-check",
     "slug": "soft-creat-r-media-shop-package-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 371
+    "time": 374
   }
 ]
